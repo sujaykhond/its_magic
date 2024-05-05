@@ -1,0 +1,26 @@
+@relation employee
+@attribute empid numeric
+@attribute name {sujay, parth, aryan, omkar, rohit}
+@attribute salary numeric
+@attribute gender {male, female}
+@attribute contactno numeric
+@attribute Yr_of_exp numeric
+@attribute Designation{Trainer,Devloper,Tester,Team_Lead,Fresher}
+@attribute email{sujay123@gmail.com,parth32@gmail.com,aryan123@gmail.com,omkar123@gmail.com,rohit23@gmail.com}
+@data
+101, sujay, 10000, male, 94568654,2,Trainer,sujay123@gmail.com
+102, parth, 10000, male, 80256895,4,Devloper,parth32@gmail.com
+103, aryan, 12000, female, 90258965,7,Team_Lead,aryan123@gmail.com
+104, omkar, 13000, male, 45895645,3,Tester,omkar123@gmail.com
+105, sujay, 12000, male, 96231485,2,Trainer,sujay123@gmail.com
+102, parth, 10000, male, 80256895,4,Devloper,parth32@gmail.com
+106, rohit, 10000, male, 89562341,7,Team_Lead,rohit23@gmail.com
+101, sujay, 10000, male, 94568654,2,Trainer,sujay123@gmail.com
+102, parth, 10000, male, 80256895,4,Devloper,parth32@gmail.com
+103, aryan, 12000, female, 90258965,7,Team_Lead,aryan123@gmail.com
+104, omkar, 13000, male, 45895645,3,Tester,omkar123@gmail.com
+105, sujay, 12000, male, 96231485,2,Trainer,sujay123@gmail.com
+102, parth, 10000,male, 80256895,4,Devloper,parth32@gmail.com
+106, rohit, 10000, male, 89562341,7,Team_Lead,rohit23@gmail.com
+104, omkar, 13000, male, 45895645,3,Tester,omkar123@gmail.com
+102, parth, 10000, male, 80256895,4,Devloper,parth32@gmail.com 

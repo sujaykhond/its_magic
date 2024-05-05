@@ -1,0 +1,24 @@
+@relation employee
+@attribute empid numeric
+@attribute name {sujay, aryan, parth, vikrant, rohit,Omkar}
+@attribute salary numeric
+@attribute gender {male, female}
+@attribute contactno numeric
+@data
+101, sujay, 10000, male, 94568654
+102, aryan, 10000, female, 80256895
+1103, parth, 12000, female, 90258965
+104, vikrant, 13000, male, 45895645
+1205,Omkar,14000,male,78153199
+105, sujay, 12000, male, 96231485
+102, aryan, 10000, female, 80256895
+106, rohit, 10000, male, 89562341
+117, sujay, 100000, male, 94568654
+118, aryan, 100000, female, 80256895
+119, parth, 120000, female, 90258965
+120, vikrant, 130000, male, 45895645
+105,sujay, 12000, male, 96231485
+121, aryan, 100000, female, 80256895
+122, rohit, 100000, male, 89562341
+1206,Omkar,18000,male,78175199
+
